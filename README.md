@@ -165,5 +165,5 @@ npm start
 ```
 
 ## 🏰Client, Server repository
-📱 <a href="https://github.com/hkyuuu00/reward5-api-server">Client</a></br>
-💻 <a href="https://github.com/hkyuuu00/dev-mode">Server</a></br>
+📱 <a href="https://github.com/ohhyeonkwon/reward5-api-server">Client</a></br>
+💻 <a href ="https://github.com/ohhyeonkwon/dev-mode">Server</a></br>
